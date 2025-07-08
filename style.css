@@ -182,7 +182,7 @@ header .active-home:hover {
 .main {
     width: 100%;
     height: 100vh;
-    background: url('imgs_main_page/main_img.jpeg')no-repeat;
+    background: url('main_img.jpeg')no-repeat;
     background-size: cover;
     background-position: top;
     background-attachment: fixed;
@@ -686,7 +686,7 @@ background:var(--main-hover-);
     height: 100vh;
     padding-bottom: 10%;
     overflow-y: auto;
-    background: linear-gradient(rgba(200, 200, 200, 0.15), rgba(255, 255, 255, 0.2)), url('imgs_main_page/pricing_img.jpg') no-repeat;
+    background: linear-gradient(rgba(200, 200, 200, 0.15), rgba(255, 255, 255, 0.2)), url('pricing_img.jpg') no-repeat;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -1300,7 +1300,7 @@ footer .copyright {
 
     
 .main { 
-   background:  url('imgs_main_page/main_img_small.jpeg');
+   background:  url('main_img_small.jpeg');
     background-size: cover;
 }
 
