@@ -478,7 +478,6 @@ header .active-home:hover {
     width: 27rem;
     border: none;
     border-radius: 2rem;
-    margin-top: 8%;
     background-color: var(--main-list-);
     transition: 0.5s ease-in;
     box-shadow: 0 0.8rem 0.6rem rgba(0, 0, 0, 0.2);
